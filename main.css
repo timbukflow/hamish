@@ -1,0 +1,30 @@
+/* 
+  Titel: HAMISH
+  Version: 2.0
+  Autor: Ivo Schwizer - Schwizer Design GmbH
+*/
+
+:root {
+  --ban-green: #4c9384;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 ;
+  padding: 0;
+}
+
+.holder{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.holder img{
+  width: 40%;
+}
